@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://jhoneg-17.github.io/JhonDev/assets/img/Background/Background-min.webp" />
+<img src="https://jhoneg-17.github.io/JhonDev/src/assets/img/Background/Background-min.webp" />
 </div>  
 
 ### <div align="center">¡Hola! 👋 , me llamo Jhonatan Espinal
