@@ -2,7 +2,7 @@
 Soy un desarrollador que siempre está actualizándose, soy comprometido y eficiente.</div>  
   
 
-- 🔭 Actualmente estoy trabajando como desarrollador web en ETN Turistar Lujo
+- 🔭 Actualmente estoy trabajando como Desarrollador Frontend en Grupo IAMSA
   
 
 - 🌱 Actualmente estoy aprendiendo Python  
