@@ -55,8 +55,4 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnDevJs&layout=compact&hide_border=true&theme=react&bg_color=0D1117&title_color=58A6FF" height="150" alt="languages graph" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=JhonnDevJs&&style=flat-square&color=blue" align="center" />
-
 </div>
