@@ -46,13 +46,3 @@
 </div>
 
 ---
-
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonnDevJs&show_icons=true&count_private=true&hide_border=true&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=F1F6F9" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnDevJs&layout=compact&hide_border=true&theme=react&bg_color=0D1117&title_color=58A6FF" height="150" alt="languages graph" />
-
-</div>
