@@ -3,7 +3,7 @@
 # ¡Hola! 👋, soy Jhonatan Espinal
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Desarrollador+Frontend;Especialista+en+Next.js+y+React;Creador+de+CalculFisc;Siempre+innovando" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Desarrollador+de+Software;Especialista+en+Next.js+y+React;Creador+de+CalculFisc;Siempre+innovando" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-> 🚀 **Sobre mí:** Soy un joven desarrollador con más de 2 años de experiencia, creo y doy mantenimiento constate a los sitios web de Grupo IAMSA para sus diversas marcas, así como mantengo mi propio producto en linea llamado CalCulFisc dando soporte y actualizaciones constantes para garantizar una excelente experiencia de usuario.
+> 🚀 **Sobre mí:** Soy un joven desarrollador con más de 2 años de experiencia, creo y doy mantenimiento constate a los proyectos de clientes de Sngular, así como mantengo mi propio producto en linea llamado CalCulFisc dando soporte y actualizaciones constantes para garantizar una excelente experiencia de usuario.
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ### 👨‍💻 Lo que estoy haciendo
 
-- 🔭 Actualmente trabajo como **Desarrollador Frontend** en **Grupo IAMSA**.
+- 🔭 Actualmente trabajo como **Desarrollador Frontend** en **Sngular**.
 - 🚀 Desarrollando mi proyecto personal: **CalculFisc**, una PWA para simplificar cálculos fiscales en México.
 - 🌱 Actualmente estoy aprendiendo **Lit** para el desarrollo de componentes web ligeros.
 - 💬 Pregúntame sobre el ecosistema **Next.js, React, TypeScript** y optimización web.
